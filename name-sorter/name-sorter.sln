@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "name-sorter", "name-sorter.csproj", "{95189243-6E98-426A-B589-CBAFA36D3CBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameSorterXUnitTest", "..\NameSorterXUnitTest\NameSorterXUnitTest.csproj", "{DE08E313-BED3-4E1D-A7BB-91100B4ED8FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95189243-6E98-426A-B589-CBAFA36D3CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95189243-6E98-426A-B589-CBAFA36D3CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95189243-6E98-426A-B589-CBAFA36D3CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95189243-6E98-426A-B589-CBAFA36D3CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE08E313-BED3-4E1D-A7BB-91100B4ED8FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE08E313-BED3-4E1D-A7BB-91100B4ED8FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE08E313-BED3-4E1D-A7BB-91100B4ED8FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE08E313-BED3-4E1D-A7BB-91100B4ED8FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04E63D53-4C49-49D3-A07F-D825C70733C1}
+	EndGlobalSection
+EndGlobal

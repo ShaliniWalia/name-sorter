@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "name-sorter": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\shali\\source\\repos\\name-sorter\\bin\\Debug\\netcoreapp3.1\\unsorted-names-list.txt"
+    }
+  }
+}
